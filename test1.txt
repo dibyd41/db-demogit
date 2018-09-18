@@ -1,4 +1,4 @@
 Hello, this is my git header
-this is body 1 - I am the working branch yappy
+this is body 1 - I am the working branch yappy - 2nd attempt to merge
 this is body 2
 this is footer
