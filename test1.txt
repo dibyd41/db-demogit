@@ -1,4 +1,4 @@
 Hello, this is my git header
-this is body 1
+this is body 1 - Hello again
 this is body 2
 this is footer
